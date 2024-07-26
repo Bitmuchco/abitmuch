@@ -538,7 +538,7 @@ ul#ul-id2.active {} */
 }
 
 .background-image-server {
-    background-image: url(../images/shared-image.png);
+    background-image: url(../images/shared-image.webp);
     /* Dummy background image */
     background-attachment: fixed;
     background-position: center;
